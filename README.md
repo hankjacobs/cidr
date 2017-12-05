@@ -11,5 +11,6 @@ go install github.com/hankjacobs/cidr
 ## Usage
 
 ```
-cidr 192.168.1.0/24
+$ cidr 192.168.1.0/24
+192.168.1.0 - 192.168.1.255
 ```
