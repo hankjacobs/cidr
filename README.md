@@ -5,7 +5,7 @@ A simple command line tool for calculating IPv4 ranges for a CIDR address.
 ## Installation
 
 ```
-go install github.com/hankjacobs/cidr
+go get github.com/hankjacobs/cidr
 ```
 
 ## Usage
